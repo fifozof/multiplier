@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LMC7660IM/NOPB
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=5.1
+Released=2015-04-13 16:16:24
+Downloaded=2022-11-07 11:12:14
+3D=Y

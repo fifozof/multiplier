@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "DMG1012UW")(type "KiCad")(uri "${KIPRJMOD}/DMG1012UW")(options "")(descr ""))
+  (lib (name "LMC7660IM_NOPB")(type "KiCad")(uri "${KIPRJMOD}/LIB_LMC7660IM_NOPB/LMC7660IM_NOPB/KiCad")(options "")(descr ""))
+  (lib (name "MIC5209-3")(type "KiCad")(uri "${KIPRJMOD}/MIC5209-3.3YS-Microchip-Symbol-Kicad-237169")(options "")(descr ""))
+  (lib (name "TLC2272ACD")(type "KiCad")(uri "${KIPRJMOD}/TLC2272ACD")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "TLC2272ACD")(type "Legacy")(uri "${KIPRJMOD}/TLC2272ACD/TLC2272ACD.lib")(options "")(descr ""))
+  (lib (name "DMG1012UW")(type "Legacy")(uri "${KIPRJMOD}/DMG1012UW/DMG1012UW.lib")(options "")(descr ""))
+  (lib (name "mic5209-3.3ys")(type "Legacy")(uri "${KIPRJMOD}/MIC5209-3.3YS-Microchip-Symbol-Kicad-237169/mic5209-3.3ys.lib")(options "")(descr ""))
+  (lib (name "LMC7660IM_NOPB")(type "Legacy")(uri "${KIPRJMOD}/LIB_LMC7660IM_NOPB/LMC7660IM_NOPB/KiCad/LMC7660IM_NOPB.lib")(options "")(descr ""))
+)

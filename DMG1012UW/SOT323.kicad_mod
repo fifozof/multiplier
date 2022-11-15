@@ -1,0 +1,39 @@
+
+(footprint SOT323 (layer F.Cu) (tedit 6368E550)
+  (descr "")
+  (fp_text reference REF** (at 3.77338 -0.5391968 0) (layer F.SilkS)
+    (effects (font (size 0.801779527559 0.801779527559) (thickness 0.15)))
+  )
+  (fp_text value SOT323 (at 4.27724 0.822805 0) (layer F.Fab)
+    (effects (font (size 0.800795275591 0.800795275591) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at 0.0 -0.9) (size 0.5 1.0) (layers F.Cu F.Mask F.Paste))
+  (pad 2 smd rect (at -0.65 0.9) (size 0.5 1.0) (layers F.Cu F.Mask F.Paste))
+  (pad 3 smd rect (at 0.65 0.9) (size 0.5 1.0) (layers F.Cu F.Mask F.Paste))
+  (fp_line (start -1.0 0.55) (end 1.0 0.55) (layer F.Fab) (width 0.2032))
+  (fp_line (start 1.0 -0.55) (end -1.0 -0.55) (layer F.Fab) (width 0.2032))
+  (fp_poly
+    (pts
+      (xy -0.150202 -1.2)
+      (xy 0.15 -1.2)
+      (xy 0.15 -0.650876)
+      (xy -0.150202 -0.650876)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -0.801571 0.65)
+      (xy -0.5 0.65)
+      (xy -0.5 1.20236)
+      (xy -0.801571 1.20236)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 0.500886 0.65)
+      (xy 0.8 0.65)
+      (xy 0.8 1.20212)
+      (xy 0.500886 1.20212)
+    ) (layer F.Fab) (width 0.01)
+  )
+)

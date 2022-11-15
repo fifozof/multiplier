@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMC7660IM_NOPB
+D 1.5-V to 10-V switched capacitor voltage converter
+K
+F http://www.ti.com/lit/ds/symlink/lmc7660.pdf
+$ENDCMP
+#
+#End Doc Library
